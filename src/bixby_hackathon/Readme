@@ -1,0 +1,11 @@
+# The project contains two java file 'Bixby_hackathon.java' & 'Utils.java'
+1. Change the input file path in 'Bixby_hackathon.java'
+2. Change the output file path in 'Utils.java'
+
+# To execute program run 'java Bixby_hackathon'
+
+# Our proposed approach consist of two modules
+a) Similarity comparison when both words are in 'Hindi'
+b) Similarity comparison when one words is in 'Hindi' and the other in 'English' 
+
+# For module1 we have used  'Soundex' algorithm and for second we have created our own custom dictionary.
