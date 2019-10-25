@@ -7,6 +7,8 @@
 /**
  *
  * @author Ashish, Banoth
+ * Department of Computer Science and Engineering - Informaion Security and Information Technology
+ * National Institute of Technology Surathkal, Karnataka - India
  */
 
 package bixby_hackathon;
@@ -24,13 +26,10 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
 
-/**
- *
- * @author Ashish
- */
 public class Bixby_hackathon {
 
-    private static final String FILENAME = "E:\\input.txt"; // Change Input file path here
+    // Change Input file path here
+    private static final String FILENAME = "E:\\input.txt";
     
     private static String[] hindi = new String[]{
 
@@ -62,7 +61,6 @@ public class Bixby_hackathon {
          };
     
     public static void main(String[] args) throws FileNotFoundException {
-        // TODO code application logic here
         HashMap<Character,Character> char_map = Utils._init_map();
         int res = 0;
         int lineCount =0;
