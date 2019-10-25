@@ -7,6 +7,8 @@
 /**
  *
  * @author Ashish, Banoth
+ * Masters Student
+ * Department of Computer Science and Engineering
  */
 
 package bixby_hackathon;
@@ -24,10 +26,6 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
 
-/**
- *
- * @author Ashish
- */
 public class Bixby_hackathon {
 
     private static final String FILENAME = "E:\\input.txt"; // Change Input file path here
